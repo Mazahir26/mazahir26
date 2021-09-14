@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Fread](https://github.com/Mazahir26/Rss-Project-Frontend)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Nest.js**
 
 - 👨‍💻 All of my projects are available at [https://mazahir26.github.io/#/](https://mazahir26.github.io/#/)
 
