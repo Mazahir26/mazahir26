@@ -21,4 +21,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mazahir26&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="mazahir26" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mazahir26&theme=dark" alt="mazahir26" /></p>
+
 
