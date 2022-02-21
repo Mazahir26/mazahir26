@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently not working.
 
-- 🌱 I’m currently learning **Nest.js**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://mazahir26.github.io/#/](https://mazahir26.github.io/#/)
 
